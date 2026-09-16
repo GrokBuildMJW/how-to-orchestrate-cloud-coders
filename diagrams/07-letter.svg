@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="t">
+  <title id="t">A letter is overlay bytes plus a template, not a skill file</title>
+  <rect width="960" height="560" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">Cursor copies a letter. The letterhead is the overlay. The body is the template.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="40" y="70" width="270" height="220" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <rect x="40" y="70" width="270" height="44" rx="4" fill="#0f5f56"/>
+    <rect x="40" y="100" width="270" height="14" fill="#0f5f56"/>
+    <text x="175" y="98" text-anchor="middle" font-size="14" font-weight="600" fill="#f4f1ea">Overlay</text>
+    <text x="175" y="150" text-anchor="middle" font-size="13" fill="#1b2328">letterhead for one model</text>
+    <text x="175" y="176" text-anchor="middle" font-size="12" fill="#5a6570">how this model works</text>
+    <text x="175" y="198" text-anchor="middle" font-size="12" fill="#5a6570">in this job</text>
+    <text x="175" y="232" text-anchor="middle" font-size="12" fill="#0f5f56">model_identity JSON</text>
+    <text x="175" y="258" text-anchor="middle" font-size="12" fill="#5a6570">must match the call</text>
+
+    <text x="325" y="180" font-size="22" fill="#0f5f56">+</text>
+
+    <rect x="345" y="70" width="270" height="220" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <rect x="345" y="70" width="270" height="44" rx="4" fill="#1b2328"/>
+    <rect x="345" y="100" width="270" height="14" fill="#1b2328"/>
+    <text x="480" y="98" text-anchor="middle" font-size="14" font-weight="600" fill="#f4f1ea">Template</text>
+    <text x="480" y="150" text-anchor="middle" font-size="13" fill="#1b2328">the job on this ticket</text>
+    <text x="480" y="176" text-anchor="middle" font-size="12" fill="#5a6570">writer / checker / hunt /</text>
+    <text x="480" y="198" text-anchor="middle" font-size="12" fill="#5a6570">architecture / second look</text>
+    <text x="480" y="232" text-anchor="middle" font-size="12" fill="#0f5f56">already starts with</text>
+    <text x="480" y="258" text-anchor="middle" font-size="12" fill="#5a6570">that overlay, byte for byte</text>
+
+    <text x="630" y="180" font-size="22" fill="#0f5f56">=</text>
+
+    <rect x="650" y="70" width="270" height="220" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="2.5"/>
+    <rect x="650" y="70" width="270" height="44" rx="4" fill="#0f5f56"/>
+    <rect x="650" y="100" width="270" height="14" fill="#0f5f56"/>
+    <text x="785" y="98" text-anchor="middle" font-size="14" font-weight="600" fill="#f4f1ea">Live letter</text>
+    <text x="785" y="150" text-anchor="middle" font-size="13" fill="#1b2328">file Cursor actually sends</text>
+    <text x="785" y="176" text-anchor="middle" font-size="12" fill="#5a6570">fix-N / review-N /</text>
+    <text x="785" y="198" text-anchor="middle" font-size="12" fill="#5a6570">question-N / rereview-N</text>
+    <text x="785" y="232" text-anchor="middle" font-size="12" fill="#0f5f56">helper admits only if</text>
+    <text x="785" y="258" text-anchor="middle" font-size="12" fill="#5a6570">first page = this overlay</text>
+
+    <rect x="40" y="320" width="575" height="200" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="60" y="352" font-size="15" font-weight="600" fill="#1b2328">Role overlay (optional second letterhead)</text>
+    <text x="60" y="380" font-size="13" fill="#1b2328">Same model, different job: architecture or hunt is not the writer page.</text>
+    <text x="60" y="404" font-size="13" fill="#5a6570">File: overlay-program-model-role.md   Call: --role architecture | hunt</text>
+    <text x="60" y="436" font-size="13" fill="#1b2328">A missing role file is a refuse. Do not send the writer overlay</text>
+    <text x="60" y="458" font-size="13" fill="#1b2328">and hope the body says “do not implement”.</text>
+    <text x="60" y="490" font-size="13" fill="#5a6570">Fallback = new overlay + new template + new call. Never --model alone.</text>
+
+    <rect x="635" y="320" width="285" height="200" rx="4" fill="#fff" stroke="#8a3b16" stroke-width="2"/>
+    <text x="655" y="352" font-size="15" font-weight="600" fill="#8a3b16">Skills are not this</text>
+    <text x="655" y="380" font-size="13" fill="#1b2328">A skill is product help</text>
+    <text x="655" y="402" font-size="13" fill="#1b2328">loaded for one ticket.</text>
+    <text x="655" y="432" font-size="13" fill="#5a6570">It is not the letterhead.</text>
+    <text x="655" y="454" font-size="13" fill="#5a6570">It does not replace the</text>
+    <text x="655" y="476" font-size="13" fill="#5a6570">overlay. Name it only if</text>
+    <text x="655" y="498" font-size="13" fill="#5a6570">this ticket needs one.</text>
+  </g>
+</svg>

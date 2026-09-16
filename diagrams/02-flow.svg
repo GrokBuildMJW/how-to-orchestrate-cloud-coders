@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="t">
+  <title id="t">One ticket, one pass</title>
+  <rect width="960" height="520" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">One ticket. One pass. No second topic.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="40" y="70" width="270" height="70" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="58" y="100" font-size="13" fill="#0f5f56" font-weight="600">1</text>
+    <text x="78" y="100" font-size="15" fill="#1b2328">You tell Cursor what done means</text>
+    <text x="78" y="122" font-size="12" fill="#5a6570">plain language, one topic</text>
+
+    <rect x="345" y="70" width="270" height="70" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="363" y="100" font-size="13" fill="#0f5f56" font-weight="600">2</text>
+    <text x="383" y="100" font-size="15" fill="#1b2328">Cursor writes the GitHub ticket</text>
+    <text x="383" y="122" font-size="12" fill="#5a6570">closed, no leftover either-or</text>
+
+    <rect x="650" y="70" width="270" height="70" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="668" y="100" font-size="13" fill="#0f5f56" font-weight="600">3</text>
+    <text x="688" y="100" font-size="15" fill="#1b2328">Cursor writes the letter</text>
+    <text x="688" y="122" font-size="12" fill="#5a6570">letterhead = this exact model</text>
+
+    <rect x="40" y="180" width="270" height="70" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="58" y="210" font-size="13" fill="#0f5f56" font-weight="600">4</text>
+    <text x="78" y="210" font-size="15" fill="#1b2328">Writer changes files</text>
+    <text x="78" y="232" font-size="12" fill="#5a6570">leaves proof, does not commit</text>
+
+    <rect x="345" y="180" width="270" height="70" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="363" y="210" font-size="13" fill="#0f5f56" font-weight="600">5</text>
+    <text x="383" y="210" font-size="15" fill="#1b2328">Checker reads the diff vs ticket</text>
+    <text x="383" y="232" font-size="12" fill="#5a6570">yes or no only</text>
+
+    <rect x="650" y="180" width="270" height="70" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="668" y="210" font-size="13" fill="#0f5f56" font-weight="600">6</text>
+    <text x="688" y="210" font-size="15" fill="#1b2328">Second look checks the checker</text>
+    <text x="688" y="232" font-size="12" fill="#5a6570">skip only a fact-only PASS</text>
+
+    <rect x="40" y="290" width="880" height="70" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="2.5"/>
+    <text x="58" y="320" font-size="13" fill="#0f5f56" font-weight="600">7</text>
+    <text x="78" y="320" font-size="15" fill="#1b2328">If yes + agree: Cursor saves the snapshot on GitHub, ticks the ticket, closes it</text>
+    <text x="78" y="342" font-size="12" fill="#5a6570">If no: new letter to the same writer, same ticket, no second topic</text>
+  </g>
+
+  <line x1="310" y1="105" x2="345" y2="105" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="345,105 335,100 335,110" fill="#1b2328"/>
+  <line x1="615" y1="105" x2="650" y2="105" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="650,105 640,100 640,110" fill="#1b2328"/>
+  <line x1="785" y1="140" x2="785" y2="160" stroke="#1b2328" stroke-width="2"/>
+  <line x1="785" y1="160" x2="175" y2="160" stroke="#1b2328" stroke-width="2"/>
+  <line x1="175" y1="160" x2="175" y2="180" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="175,180 170,170 180,170" fill="#1b2328"/>
+  <line x1="310" y1="215" x2="345" y2="215" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="345,215 335,210 335,220" fill="#1b2328"/>
+  <line x1="615" y1="215" x2="650" y2="215" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="650,215 640,210 640,220" fill="#1b2328"/>
+  <line x1="785" y1="250" x2="785" y2="290" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="785,290 780,280 790,280" fill="#1b2328"/>
+
+  <text x="40" y="400" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#1b2328">Between writer and checker, Cursor runs the suites itself. It does not author those tests.</text>
+  <text x="40" y="424" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#5a6570">Cursor's mini-agents are not the writer and not the checker. Letters go through the helper as UTF-8.</text>
+  <text x="40" y="460" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#1b2328">Trust the transcript header, not only the name on the invitation.</text>
+  <text x="40" y="484" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">The helper stamp is what we asked. If a weaker model answers, the header says so.</text>
+</svg>

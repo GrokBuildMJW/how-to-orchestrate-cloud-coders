@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="t">
+  <title id="t">Default hunt: Astra hunts once, Fable checks the handoff</title>
+  <rect width="960" height="420" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">Hunt is one walk, then a check of the files. Not two hunters.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="40" y="70" width="260" height="130" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="2.5"/>
+    <text x="170" y="104" text-anchor="middle" font-size="14" font-weight="600" fill="#0f5f56">1. Hunter</text>
+    <text x="170" y="132" text-anchor="middle" font-size="13" fill="#1b2328">Astra · hunt overlay</text>
+    <text x="170" y="156" text-anchor="middle" font-size="12" fill="#5a6570">--role hunt · xhigh</text>
+    <text x="170" y="178" text-anchor="middle" font-size="12" fill="#5a6570">writes handoff + table</text>
+
+    <path d="M310 135 H370" stroke="#1b2328" stroke-width="2" fill="none"/>
+    <polygon points="370,135 360,130 360,140" fill="#1b2328"/>
+
+    <rect x="380" y="70" width="200" height="130" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="480" y="112" text-anchor="middle" font-size="13" fill="#1b2328">files on disk</text>
+    <text x="480" y="138" text-anchor="middle" font-size="12" fill="#5a6570">N-hunt-coding.md</text>
+    <text x="480" y="160" text-anchor="middle" font-size="12" fill="#5a6570">N-hunt-coding-table.md</text>
+
+    <path d="M590 135 H650" stroke="#1b2328" stroke-width="2" fill="none"/>
+    <polygon points="650,135 640,130 640,140" fill="#1b2328"/>
+
+    <rect x="660" y="70" width="260" height="130" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="2.5"/>
+    <text x="790" y="104" text-anchor="middle" font-size="14" font-weight="600" fill="#0f5f56">2. Confirmer</text>
+    <text x="790" y="132" text-anchor="middle" font-size="13" fill="#1b2328">Fable · checker overlay</text>
+    <text x="790" y="156" text-anchor="middle" font-size="12" fill="#5a6570">no --role hunt</text>
+    <text x="790" y="178" text-anchor="middle" font-size="12" fill="#5a6570">PASS or BLOCK</text>
+
+    <rect x="40" y="230" width="880" height="150" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="60" y="262" font-size="14" font-weight="600" fill="#1b2328">Not the default</text>
+    <text x="60" y="290" font-size="13" fill="#1b2328">A second hunter (Fable + hunt overlay) only if the ticket says Second-voice: fable hunt.</text>
+    <text x="60" y="314" font-size="13" fill="#1b2328">Architecture still uses two independent voices. Hunt does not copy that pattern.</text>
+    <text x="60" y="346" font-size="13" fill="#5a6570">Catalog and class tables in the hunt letter are one product’s example. Rewrite them.</text>
+    <text x="60" y="368" font-size="13" fill="#5a6570">The hunter does not confirm its own hunt. Skip Grok unless Fable blocked.</text>
+  </g>
+</svg>

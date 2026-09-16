@@ -1,0 +1,6 @@
+.cursor/settings.json
+__pycache__/
+*.pyc
+.env
+*.pem
+*token*

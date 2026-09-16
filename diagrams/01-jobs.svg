@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" role="img" aria-labelledby="t">
+  <title id="t">Four jobs nobody may mix</title>
+  <rect width="960" height="380" fill="#f4f1ea"/>
+  <text x="40" y="42" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">Four jobs. Nobody does someone else's job.</text>
+
+  <rect x="40" y="70" width="200" height="90" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+  <text x="140" y="108" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#1b2328">You</text>
+  <text x="140" y="132" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">say what to build</text>
+
+  <rect x="280" y="70" width="200" height="90" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+  <text x="380" y="108" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#1b2328">Cursor</text>
+  <text x="380" y="132" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">assigns the work</text>
+
+  <rect x="520" y="70" width="200" height="90" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+  <text x="620" y="108" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#1b2328">GitHub</text>
+  <text x="620" y="132" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">holds the ticket</text>
+
+  <rect x="760" y="70" width="160" height="90" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+  <text x="840" y="108" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#1b2328">Code</text>
+  <text x="840" y="132" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">lives in the repo</text>
+
+  <line x1="240" y1="115" x2="280" y2="115" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="280,115 270,110 270,120" fill="#1b2328"/>
+  <line x1="480" y1="115" x2="520" y2="115" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="520,115 510,110 510,120" fill="#1b2328"/>
+  <line x1="720" y1="115" x2="760" y2="115" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="760,115 750,110 750,120" fill="#1b2328"/>
+
+  <text x="40" y="200" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#5a6570">Cursor calls three cloud jobs. Cursor does not write product code.</text>
+
+  <rect x="40" y="230" width="280" height="110" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="2.5"/>
+  <text x="180" y="268" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#0f5f56">Writer</text>
+  <text x="180" y="292" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#1b2328">changes files</text>
+  <text x="180" y="314" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">does not commit</text>
+
+  <rect x="340" y="230" width="280" height="110" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+  <text x="480" y="268" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#1b2328">Checker</text>
+  <text x="480" y="292" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#1b2328">says yes or no</text>
+  <text x="480" y="314" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">changes nothing</text>
+
+  <rect x="640" y="230" width="280" height="110" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+  <text x="780" y="268" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#1b2328">Second look</text>
+  <text x="780" y="292" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#1b2328">checks the checker</text>
+  <text x="780" y="314" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">changes nothing</text>
+</svg>

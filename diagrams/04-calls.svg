@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="t">
+  <title id="t">Who calls whom</title>
+  <rect width="960" height="500" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">Cursor stays in Cursor. Cloud jobs are other programs.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">
+    <rect x="40" y="70" width="880" height="56" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="60" y="94" font-weight="600" fill="#1b2328">Job</text>
+    <text x="250" y="94" font-weight="600" fill="#1b2328">Program</text>
+    <text x="500" y="94" font-weight="600" fill="#1b2328">Who you name</text>
+    <text x="730" y="94" font-weight="600" fill="#1b2328">When</text>
+
+    <rect x="40" y="136" width="880" height="52" fill="#fff" stroke="#1b2328" stroke-width="1.5"/>
+    <text x="60" y="168" fill="#1b2328">Writer</text>
+    <text x="250" y="168" fill="#1b2328">Codex</text>
+    <text x="500" y="168" fill="#0f5f56">Astra, high effort</text>
+    <text x="730" y="168" fill="#5a6570">default</text>
+
+    <rect x="40" y="188" width="880" height="52" fill="#faf8f3" stroke="#1b2328" stroke-width="1.5"/>
+    <text x="60" y="220" fill="#1b2328">Writer</text>
+    <text x="250" y="220" fill="#1b2328">Codex</text>
+    <text x="500" y="220" fill="#8a3b16">Sol / Terra</text>
+    <text x="730" y="220" fill="#5a6570">fallback letter only</text>
+
+    <rect x="40" y="240" width="880" height="52" fill="#fff" stroke="#1b2328" stroke-width="1.5"/>
+    <text x="60" y="272" fill="#1b2328">Checker</text>
+    <text x="250" y="272" fill="#1b2328">Claude CLI</text>
+    <text x="500" y="272" fill="#0f5f56">Fable, high effort</text>
+    <text x="730" y="272" fill="#5a6570">every review</text>
+
+    <rect x="40" y="292" width="880" height="52" fill="#faf8f3" stroke="#1b2328" stroke-width="1.5"/>
+    <text x="60" y="324" fill="#1b2328">Checker, last resort</text>
+    <text x="250" y="324" fill="#1b2328">Claude CLI</text>
+    <text x="500" y="324" fill="#8a3b16">Opus</text>
+    <text x="730" y="324" fill="#5a6570">only if Fable cannot run</text>
+
+    <rect x="40" y="344" width="880" height="52" fill="#fff" stroke="#1b2328" stroke-width="1.5"/>
+    <text x="60" y="376" fill="#1b2328">Second look</text>
+    <text x="250" y="376" fill="#1b2328">Grok</text>
+    <text x="500" y="376" fill="#0f5f56">Grok 4.6</text>
+    <text x="730" y="376" fill="#5a6570">coding review, and on BLOCK</text>
+
+    <rect x="40" y="396" width="880" height="52" fill="#faf8f3" stroke="#1b2328" stroke-width="1.5"/>
+    <text x="60" y="428" fill="#1b2328">Third voice</text>
+    <text x="250" y="428" fill="#1b2328">Kimi</text>
+    <text x="500" y="428" fill="#5a6570">Kimi k3</text>
+    <text x="730" y="428" fill="#5a6570">only if you turn it on</text>
+  </g>
+  <text x="40" y="478" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">Always write the model name in the call line. Without a name, someone else can answer quietly.</text>
+</svg>

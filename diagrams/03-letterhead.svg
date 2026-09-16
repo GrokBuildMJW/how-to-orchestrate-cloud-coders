@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" role="img" aria-labelledby="t">
+  <title id="t">Every letter starts with that model's letterhead</title>
+  <rect width="960" height="440" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">Same job, different letterhead. Swapping only the name tag is not enough.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="40" y="70" width="210" height="250" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <rect x="40" y="70" width="210" height="44" rx="4" fill="#0f5f56"/>
+    <rect x="40" y="100" width="210" height="14" fill="#0f5f56"/>
+    <text x="145" y="98" text-anchor="middle" font-size="13" font-weight="600" fill="#f4f1ea">Writer A</text>
+    <text x="145" y="150" text-anchor="middle" font-size="12" fill="#5a6570">letterhead A</text>
+    <text x="145" y="174" text-anchor="middle" font-size="14" fill="#1b2328">the job</text>
+    <text x="145" y="198" text-anchor="middle" font-size="12" fill="#5a6570">stay until done</text>
+    <text x="145" y="250" text-anchor="middle" font-size="12" fill="#0f5f56">how to call</text>
+    <text x="145" y="272" text-anchor="middle" font-size="12" fill="#1b2328">high effort</text>
+
+    <rect x="270" y="70" width="210" height="250" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <rect x="270" y="70" width="210" height="44" rx="4" fill="#8a3b16"/>
+    <rect x="270" y="100" width="210" height="14" fill="#8a3b16"/>
+    <text x="375" y="98" text-anchor="middle" font-size="13" font-weight="600" fill="#f4f1ea">Writer B</text>
+    <text x="375" y="150" text-anchor="middle" font-size="12" fill="#5a6570">letterhead B</text>
+    <text x="375" y="174" text-anchor="middle" font-size="14" fill="#1b2328">the job</text>
+    <text x="375" y="198" text-anchor="middle" font-size="12" fill="#5a6570">step by step</text>
+    <text x="375" y="250" text-anchor="middle" font-size="12" fill="#8a3b16">how to call</text>
+    <text x="375" y="272" text-anchor="middle" font-size="12" fill="#1b2328">different effort</text>
+
+    <rect x="500" y="70" width="210" height="250" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <rect x="500" y="70" width="210" height="44" rx="4" fill="#1b2328"/>
+    <rect x="500" y="100" width="210" height="14" fill="#1b2328"/>
+    <text x="605" y="98" text-anchor="middle" font-size="13" font-weight="600" fill="#f4f1ea">Checker</text>
+    <text x="605" y="150" text-anchor="middle" font-size="12" fill="#5a6570">checker letterhead</text>
+    <text x="605" y="174" text-anchor="middle" font-size="14" fill="#1b2328">yes or no</text>
+    <text x="605" y="198" text-anchor="middle" font-size="12" fill="#5a6570">do not explain, do not fix</text>
+    <text x="605" y="250" text-anchor="middle" font-size="12" fill="#1b2328">how to call</text>
+    <text x="605" y="272" text-anchor="middle" font-size="12" fill="#1b2328">high effort</text>
+
+    <rect x="730" y="70" width="190" height="250" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <rect x="730" y="70" width="190" height="44" rx="4" fill="#3d4a55"/>
+    <rect x="730" y="100" width="190" height="14" fill="#3d4a55"/>
+    <text x="825" y="98" text-anchor="middle" font-size="13" font-weight="600" fill="#f4f1ea">Second look</text>
+    <text x="825" y="150" text-anchor="middle" font-size="12" fill="#5a6570">own letterhead</text>
+    <text x="825" y="174" text-anchor="middle" font-size="14" fill="#1b2328">agree / disagree</text>
+    <text x="825" y="198" text-anchor="middle" font-size="12" fill="#5a6570">no mid-run questions</text>
+    <text x="825" y="250" text-anchor="middle" font-size="12" fill="#1b2328">how to call</text>
+    <text x="825" y="272" text-anchor="middle" font-size="12" fill="#1b2328">a different app</text>
+  </g>
+
+  <text x="40" y="360" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#1b2328">A model switch is a new letter: new letterhead, new file, new call line.</text>
+  <text x="40" y="386" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#5a6570">Resume only the same model with the same call lines. Flags are not inherited.</text>
+  <text x="40" y="416" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#8a3b16">Wrong: keep letterhead A and only change the model name in the call line.</text>
+</svg>

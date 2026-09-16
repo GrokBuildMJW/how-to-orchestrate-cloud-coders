@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-labelledby="t">
+  <title id="t">Invitation versus stamp</title>
+  <rect width="960" height="300" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">The stamp is what we asked. The transcript header is who ran.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="40" y="70" width="400" height="160" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="240" y="110" text-anchor="middle" font-size="14" fill="#5a6570">Invitation (call line)</text>
+    <text x="240" y="148" text-anchor="middle" font-size="18" font-weight="600" fill="#1b2328">please Astra</text>
+    <text x="240" y="176" text-anchor="middle" font-size="13" fill="#5a6570">can quietly be someone else</text>
+    <text x="240" y="200" text-anchor="middle" font-size="13" fill="#5a6570">if the name is missing from the line</text>
+
+    <rect x="520" y="70" width="400" height="160" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="3"/>
+    <text x="720" y="110" text-anchor="middle" font-size="14" fill="#0f5f56">Transcript header (who ran)</text>
+    <text x="720" y="148" text-anchor="middle" font-size="18" font-weight="600" fill="#0f5f56">model: gpt-6-astra</text>
+    <text x="720" y="176" text-anchor="middle" font-size="13" fill="#1b2328">this is what counts for the round</text>
+    <text x="720" y="200" text-anchor="middle" font-size="13" fill="#5a6570">header must match stamp + letterhead</text>
+  </g>
+
+  <line x1="440" y1="150" x2="520" y2="150" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="520,150 510,145 510,155" fill="#1b2328"/>
+
+  <text x="40" y="270" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#1b2328">If the header does not match the stamp: drop the round, new letter, new overlay. Do not rename.</text>
+</svg>

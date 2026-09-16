@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-labelledby="t">
+  <title id="t">Two checker accounts, then last resort</title>
+  <rect width="960" height="360" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="600" fill="#1b2328">Optional exception: two wallets, still one checker. Not part of the method.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="40" y="80" width="200" height="120" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="140" y="128" text-anchor="middle" font-size="16" font-weight="600" fill="#1b2328">Account A</text>
+    <text x="140" y="152" text-anchor="middle" font-size="13" fill="#8a3b16">empty right now</text>
+    <text x="140" y="176" text-anchor="middle" font-size="12" fill="#5a6570">Fable</text>
+
+    <rect x="300" y="80" width="200" height="120" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="3"/>
+    <text x="400" y="128" text-anchor="middle" font-size="16" font-weight="600" fill="#0f5f56">Account B</text>
+    <text x="400" y="152" text-anchor="middle" font-size="13" fill="#0f5f56">active now</text>
+    <text x="400" y="176" text-anchor="middle" font-size="12" fill="#5a6570">Fable</text>
+
+    <rect x="560" y="80" width="200" height="120" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="660" y="128" text-anchor="middle" font-size="16" font-weight="600" fill="#1b2328">Account A</text>
+    <text x="660" y="152" text-anchor="middle" font-size="13" fill="#5a6570">again when B is empty</text>
+    <text x="660" y="176" text-anchor="middle" font-size="12" fill="#5a6570">credit can return</text>
+
+    <rect x="780" y="80" width="140" height="120" rx="4" fill="#fff" stroke="#8a3b16" stroke-width="2"/>
+    <text x="850" y="128" text-anchor="middle" font-size="16" font-weight="600" fill="#8a3b16">Opus</text>
+    <text x="850" y="152" text-anchor="middle" font-size="12" fill="#5a6570">only if</text>
+    <text x="850" y="176" text-anchor="middle" font-size="12" fill="#5a6570">A and B empty</text>
+  </g>
+
+  <line x1="240" y1="140" x2="300" y2="140" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="300,140 290,135 290,145" fill="#1b2328"/>
+  <line x1="500" y1="140" x2="560" y2="140" stroke="#1b2328" stroke-width="2"/>
+  <polygon points="560,140 550,135 550,145" fill="#1b2328"/>
+  <line x1="760" y1="140" x2="780" y2="140" stroke="#8a3b16" stroke-width="2"/>
+  <polygon points="780,140 770,135 770,145" fill="#8a3b16"/>
+
+  <text x="40" y="250" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#1b2328">“Now account B” is today's state, not a ban on account A.</text>
+  <text x="40" y="278" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#5a6570">When B is empty: call A again. Opus only when Fable itself cannot run on either wallet.</text>
+  <text x="40" y="310" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#8a3b16">Not: B empty → Opus immediately. Not: freeze B as “never A again”.</text>
+  <text x="40" y="338" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#5a6570">Opus gets its own letter, not the Fable letter with a different name.</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="t">
+  <title id="t">How Cursor steers cloud coders with overlays, templates, and skills</title>
+  <rect width="960" height="720" fill="#f4f1ea"/>
+  <text x="40" y="40" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600" fill="#1b2328">Cursor assigns. Cloud programs write, check, and second-look.</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="40" y="64" width="200" height="56" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="140" y="88" text-anchor="middle" font-size="13" fill="#5a6570">You</text>
+    <text x="140" y="108" text-anchor="middle" font-size="14" font-weight="600" fill="#1b2328">one closed job</text>
+
+    <path d="M250 92 H310" stroke="#1b2328" stroke-width="2" fill="none"/>
+    <polygon points="310,92 300,87 300,97" fill="#1b2328"/>
+
+    <rect x="320" y="56" width="280" height="72" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="2.5"/>
+    <text x="460" y="84" text-anchor="middle" font-size="13" fill="#0f5f56" font-weight="600">Cursor (Orchestrator)</text>
+    <text x="460" y="106" text-anchor="middle" font-size="12" fill="#5a6570">no product code, no verdict</text>
+
+    <path d="M610 92 H670" stroke="#1b2328" stroke-width="2" fill="none"/>
+    <polygon points="670,92 660,87 660,97" fill="#1b2328"/>
+
+    <rect x="680" y="56" width="240" height="72" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="800" y="84" text-anchor="middle" font-size="13" font-weight="600" fill="#1b2328">GitHub ticket</text>
+    <text x="800" y="106" text-anchor="middle" font-size="12" fill="#5a6570">whole contract, every box</text>
+
+    <rect x="40" y="160" width="880" height="88" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="60" y="192" font-size="14" font-weight="600" fill="#1b2328">1. Cursor copies a template whose first page is already the overlay</text>
+    <text x="60" y="218" font-size="13" fill="#5a6570">Writer, checker, second look, architecture, and hunt each have their own overlay + template pair.</text>
+    <text x="60" y="238" font-size="13" fill="#5a6570">A role job (architecture, hunt) uses overlay-program-model-role.md — not the writer page with extra “do nots”.</text>
+
+    <rect x="40" y="268" width="880" height="72" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="60" y="298" font-size="14" font-weight="600" fill="#1b2328">2. Helper reads the letter, checks the first page, stamps the outfile, starts the program</text>
+    <text x="60" y="322" font-size="13" fill="#5a6570">Mismatch or missing role file: refuse, no launch. Trust the transcript header under the stamp.</text>
+
+    <rect x="40" y="360" width="200" height="120" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="140" y="392" text-anchor="middle" font-size="13" fill="#0f5f56" font-weight="600">Writer</text>
+    <text x="140" y="416" text-anchor="middle" font-size="13" fill="#1b2328">Codex · Astra</text>
+    <text x="140" y="438" text-anchor="middle" font-size="12" fill="#5a6570">overlay + writer template</text>
+    <text x="140" y="458" text-anchor="middle" font-size="12" fill="#5a6570">does not commit</text>
+
+    <rect x="260" y="360" width="200" height="120" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="360" y="392" text-anchor="middle" font-size="13" fill="#0f5f56" font-weight="600">Checker</text>
+    <text x="360" y="416" text-anchor="middle" font-size="13" fill="#1b2328">Claude · Fable</text>
+    <text x="360" y="438" text-anchor="middle" font-size="12" fill="#5a6570">overlay + checker template</text>
+    <text x="360" y="458" text-anchor="middle" font-size="12" fill="#5a6570">PASS or BLOCK</text>
+
+    <rect x="480" y="360" width="200" height="120" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="580" y="392" text-anchor="middle" font-size="13" fill="#0f5f56" font-weight="600">Second look</text>
+    <text x="580" y="416" text-anchor="middle" font-size="13" fill="#1b2328">Grok CLI · 4.6</text>
+    <text x="580" y="438" text-anchor="middle" font-size="12" fill="#5a6570">overlay + second-look template</text>
+    <text x="580" y="458" text-anchor="middle" font-size="12" fill="#5a6570">CONFIRM or CHALLENGE</text>
+
+    <rect x="700" y="360" width="220" height="120" rx="4" fill="#fff" stroke="#1b2328" stroke-width="2"/>
+    <text x="810" y="392" text-anchor="middle" font-size="13" fill="#0f5f56" font-weight="600">Other jobs</text>
+    <text x="810" y="416" text-anchor="middle" font-size="13" fill="#1b2328">architecture / hunt</text>
+    <text x="810" y="438" text-anchor="middle" font-size="12" fill="#5a6570">role overlay + that template</text>
+    <text x="810" y="458" text-anchor="middle" font-size="12" fill="#5a6570">no product patch</text>
+
+    <rect x="40" y="504" width="430" height="176" rx="4" fill="#fff" stroke="#8a3b16" stroke-width="2"/>
+    <text x="60" y="536" font-size="14" font-weight="600" fill="#8a3b16">Skills (product only)</text>
+    <text x="60" y="564" font-size="13" fill="#1b2328">A skill is extra pages for one kind of work</text>
+    <text x="60" y="586" font-size="13" fill="#1b2328">(diagnose, build, review…).</text>
+    <text x="60" y="614" font-size="13" fill="#5a6570">Cursor does not paste a skill as the first page.</text>
+    <text x="60" y="636" font-size="13" fill="#5a6570">The writer overlay may name $skill if this</text>
+    <text x="60" y="658" font-size="13" fill="#5a6570">ticket needs one. Install is a product step.</text>
+
+    <rect x="490" y="504" width="430" height="176" rx="4" fill="#fff" stroke="#0f5f56" stroke-width="2.5"/>
+    <text x="510" y="536" font-size="14" font-weight="600" fill="#0f5f56">After a yes</text>
+    <text x="510" y="564" font-size="13" fill="#1b2328">Cursor commits product files only.</text>
+    <text x="510" y="586" font-size="13" fill="#1b2328">Ticks every box. Comments the snapshot.</text>
+    <text x="510" y="608" font-size="13" fill="#1b2328">Closes the ticket.</text>
+    <text x="510" y="640" font-size="13" fill="#5a6570">BLOCK: same ticket, new writer letter.</text>
+    <text x="510" y="662" font-size="13" fill="#5a6570">Independence: writer does not check itself.</text>
+  </g>
+</svg>
